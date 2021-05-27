@@ -2,7 +2,7 @@
 
 Explore DOM events, fetching data from API and infinity scroll functionality.
 
-Check the demo hosted on https://filipeqs.github.io/infinity-scroll/.
+Check the demo hosted on https://filipeqs.github.io/infinity-scroll/
 
 ---
 
