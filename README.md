@@ -8,7 +8,7 @@ Check the demo hosted on https://filipeqs.github.io/infinity-scroll/
 
 ## Instructions
 
-First clone this repository.
+First clone this repository
 
 ```bash
 $ git clone https://github.com/filipeqs/infinity-scroll.git
